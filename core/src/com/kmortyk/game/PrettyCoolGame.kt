@@ -19,7 +19,7 @@ class PrettyCoolGame : ApplicationAdapter() {
         const val ScreenWidth = 640*2
         const val ScreenHeight = 480*2
 
-        const val Version = "v0.21"
+        const val Version = "v0.211"
 
         // debug consts
         const val Debug = true
