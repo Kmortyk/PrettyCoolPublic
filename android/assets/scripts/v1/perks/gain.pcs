@@ -1,0 +1,14 @@
+// PrettyCool RPG
+// Gain perk effect
+//
+// adds strength to the player
+// adds splash effect
+//
+
+var value = 5
+var steps = 10
+
+effect("splash")
+modifier("strength", value, steps)
+
+print("finished")

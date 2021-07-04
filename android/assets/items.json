@@ -1,0 +1,71 @@
+[
+  {
+    "name": "pipe", "drawable":  "itm_pipe10.png", "type": "world_use", "has_view": true,
+    "actions": [
+      {"name": "attack", "power": 2, "max_distance": 1},
+      {"name": "play_animation", "animation_name": "player_pipe_punch"}
+    ]
+  },
+
+  {
+    "name": "pistol", "drawable":  "itm_pistol6.png", "type": "world_use", "has_view": true,
+    "actions": [
+      {"name": "attack", "power": 5, "max_distance": 10, "ammo": "itm_pistol_ammo"},
+      {"name": "play_animation", "animation_name": "player_pistol_shot"},
+      {"name": "bullet_effect", "bullet_drawable": "eff_pistol_bullet"},
+      {"name": "sound", "sound_name": "pistol_shot_7"}
+    ]
+  },
+  {
+    "name": "hand_grenade_launcher", "drawable": "itm_hand_grenade_launcher.png", "type": "world_use", "has_view": true,
+    "actions": [
+      {"name": "attack", "power": 5, "max_distance": 10, "ammo": "itm_pistol_ammo"},
+      {"name": "play_animation", "animation_name": "player_pistol_shot"},
+      {"name": "bullet_effect", "bullet_drawable": "eff_pistol_bullet"}
+    ]
+  },
+  {
+    "name": "shotgun", "drawable": "itm_shotgun.png", "type": "world_use", "has_view": true,
+    "actions": [
+      {"name": "attack", "power": 5, "max_distance": 10, "ammo": "itm_shotgun_ammo"},
+      {"name": "play_animation", "animation_name": "player_pistol_shot"},
+      {"name": "bullet_effect", "bullet_drawable": "eff_pistol_bullet"}
+    ]
+  },
+  {
+    "name": "two_barrels", "drawable": "itm_two_barrels2.png", "type": "world_use", "has_view": true,
+    "actions": [
+      {"name": "attack", "power": 15, "max_distance": 10, "ammo": "itm_shotgun_ammo"},
+      {"name": "play_animation", "animation_name": "player_pistol_shot"},
+      {"name": "bullet_effect", "bullet_drawable": "eff_pistol_bullet"}
+    ]
+  },
+
+  {"name": "dedevik_hat", "drawable": "itm_dedevik_hat.png", "type": "world_use"},
+  {"name": "rope", "drawable": "itm_rope4.png", "type": "world_use"},
+  {"name": "hp_sphere_medium", "drawable": "hp_sphere_medium.png", "type": "pick_up", "actions": [{"name": "heal", "amount": 3}]},
+  {"name": "hp_sphere_small", "drawable": "hp_sphere_small.png", "type": "pick_up", "actions": [{"name": "heal", "amount": 2}]},
+
+  {"name": "itm_pistol_ammo", "type": "resource", "drawable": "itm_pistol_ammo_many.png",
+    "resource_category": {
+      "one": {"drawable": "itm_pistol_ammo_one.png", "count": 7},
+      "some": {"drawable": "itm_pistol_ammo_many.png", "count": 14},
+      "many": {"drawable": "itm_pistol_ammo_many.png", "count": 21}
+    }
+  },
+  {"name": "itm_shotgun_ammo", "type": "resource", "drawable": "itm_shotgun_ammo_many.png",
+    "resource_category": {
+      "one": {"drawable": "itm_shotgun_ammo_one.png", "count": 1},
+      "some": {"drawable": "itm_shotgun_ammo_many.png", "count": 3},
+      "many": {"drawable": "itm_shotgun_ammo_many.png", "count": 5}
+    }
+  },
+  {"name": "coin", "type": "resource", "drawable": "itm_coin2.png",
+    "resource_category": {
+      "one": {"drawable": "itm_coin2.png", "count": 1},
+      "some": {"drawable": "itm_coin2.png", "count": 3},
+      "many": {"drawable": "itm_coin2.png", "count": 5}
+    }
+  }
+
+]

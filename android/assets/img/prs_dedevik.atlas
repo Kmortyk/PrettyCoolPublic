@@ -1,0 +1,18 @@
+prs_dedevik_atlas4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+default
+  rotate: false
+  xy: 0, 0
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: 0
+iddle1
+  rotate: false
+  xy: 0, 27
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: 0 

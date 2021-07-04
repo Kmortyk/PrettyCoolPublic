@@ -1,0 +1,3 @@
+[
+  {"questID": "dedevik_1_hat", "personID": "dedevik", "type": "bring_item", "name": "Потерянная шляпа", "description": "Найти и принести шляпу Дедевику", "keys": {"itemName": "dedevik_hat"}}
+]

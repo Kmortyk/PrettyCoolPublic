@@ -1,0 +1,11 @@
+prs_cat6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+default
+  rotate: false
+  xy: 0, 0
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: 0

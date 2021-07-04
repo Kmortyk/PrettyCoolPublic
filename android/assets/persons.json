@@ -1,0 +1,11 @@
+[
+  {"name": "player", "drawable": "player_iddle", "state": "stand", "barehands_power": 1, "init_hp": 10},
+  {"name": "dedevik", "drawable": "dedevik_iddle", "state": "stand", "barehands_power": 0, "init_hp": 2, "dialog": "dedevik_1_begin_of_game.json"},
+  {"name": "redneck", "drawable": "redneck_iddle", "state": "aggressive", "barehands_power": 1, "init_hp": 2},
+  {"name": "mice", "drawable": "mice_iddle", "state": "walking", "barehands_power": 0, "init_hp": 1},
+  {"name": "сheesecake", "drawable": "сheesecake_iddle", "state": "stand", "barehands_power": 0, "init_hp": 1},
+  {"name": "cat", "drawable": "cat_iddle", "state": "walking", "barehands_power": 0, "init_hp": 9},
+  {"name": "reverti", "drawable": "reverti_iddle", "state": "walking", "barehands_power": 5, "init_hp": 100},
+  {"name": "erik_aber", "drawable": "erik_aber_iddle", "state": "walking", "barehands_power": 1, "init_hp": 100},
+  {"name": "incredible_shrimp", "drawable": "incredible_shrimp_iddle", "state": "stand", "barehands_power": 1000000, "init_hp": 1000000}
+]

@@ -1,0 +1,16 @@
+[
+  {"name": "player_new_year", "atlas": "prs_player_new_year.atlas", "keyframes": ["default"], "type": "loop", "duration": 0.025},
+  {"name": "player_iddle", "atlas": "prs_player.atlas", "keyframes": ["default"], "type": "loop", "duration": 0.025},
+  {"name": "player_pipe_punch", "atlas": "prs_player.atlas", "keyframes": ["hand_pipe", "hand_pipe"], "type": "normal", "duration": 0.2},
+  {"name": "player_pistol_shot", "atlas": "prs_player.atlas", "keyframes": ["hand_pistol", "hand_pistol"], "type": "normal", "duration": 0.2},
+
+  {"name": "dedevik_iddle", "atlas": "prs_dedevik.atlas", "keyframes": ["default", "iddle1"], "type": "loop", "duration": 0.66},
+  {"name": "redneck_iddle", "atlas": "prs_redneck.atlas", "keyframes": ["default"], "type": "loop", "duration": 0.33},
+  {"name": "mice_iddle", "atlas": "prs_mice.atlas", "keyframes": ["default"], "type": "loop", "duration": 0.33},
+  {"name": "сheesecake_iddle", "atlas": "prs_сheesecake.atlas", "keyframes": ["default"], "type": "loop", "duration": 0.33},
+  {"name": "cat_iddle", "atlas": "prs_cat.atlas", "keyframes": ["default"], "type": "loop", "duration": 0.33},
+  {"name": "reverti_iddle", "atlas": "prs_reverti.atlas", "keyframes": ["default"], "type": "loop", "duration": 0.33},
+  {"name": "erik_aber_iddle", "atlas": "prs_erik_aber.atlas", "keyframes": ["default"], "type": "loop", "duration": 0.33},
+
+  {"name": "incredible_shrimp_iddle", "atlas": "prs_incredible_shrimp.atlas", "keyframes": ["default"], "type": "loop", "duration": 0.33}
+]

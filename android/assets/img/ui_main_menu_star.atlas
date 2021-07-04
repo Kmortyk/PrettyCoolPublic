@@ -1,0 +1,74 @@
+ui_main_menu_star_atlas2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 0, 0
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: 0
+2
+  rotate: false
+  xy: 19, 0
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: 0
+3
+  rotate: false
+  xy: 38, 0
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: 0
+4
+  rotate: false
+  xy: 57, 0
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: 0
+5
+  rotate: false
+  xy: 76, 0
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: 0
+6
+  rotate: false
+  xy: 95, 0
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: 0
+7
+  rotate: false
+  xy: 114, 0
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: 0
+8
+  rotate: false
+  xy: 133, 0
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: 0
+9
+  rotate: false
+  xy: 152, 0
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: 0
+10
+  rotate: false
+  xy: 171, 0
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: 0

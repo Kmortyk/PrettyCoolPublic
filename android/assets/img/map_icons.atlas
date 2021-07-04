@@ -1,0 +1,40 @@
+map_icons.png
+size: 22,13
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hex_stone_icon
+  rotate: false
+  xy: 0, 0
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: 0
+hex_player_icon
+  rotate: false
+  xy: 11, 0
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: 1
+hex_threat_icon
+  rotate: false
+  xy: 22, 0
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: 1
+hex_item_icon
+  rotate: false
+  xy: 33, 0
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: 1
+hex_prs_icon
+  rotate: false
+  xy: 44, 0
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: 1  

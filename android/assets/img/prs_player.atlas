@@ -1,0 +1,25 @@
+prs_player_atlas6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+default
+  rotate: false
+  xy: 0, 0
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: 0
+hand_pipe
+  rotate: false
+  xy: 0, 62
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: 0
+hand_pistol
+  rotate: false
+  xy: 0, 93
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: 0  

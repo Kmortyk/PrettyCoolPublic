@@ -1,0 +1,18 @@
+[
+  {"name": "tree", "drawable": "scn_tree1.png", "offset_x": 0.0, "offset_y": 15.0, "blocks_way": true},
+  {"name": "pine", "drawable": "scn_pine2.png", "offset_x": 0.0, "offset_y": 15.0, "blocks_way": true},
+
+  {"name": "barrel", "drawable": "scn_barrel.png", "offset_x": 0.0, "offset_y": 0.0, "blocks_way": true},
+  {"name": "box", "drawable": "scn_box5.png", "offset_x": 0.0, "offset_y": 0.0, "blocks_way": true},
+  {"name": "bush", "drawable": "scn_bush8.png", "offset_x": 0.0, "offset_y": 3.0, "blocks_way": false},
+  {"name": "anchor", "drawable": "scn_anchor4.png", "offset_x": 0.0, "offset_y": 8.0, "blocks_way": true},
+  {"name": "rag", "drawable": "scn_rag4.png", "offset_x": 0.0, "offset_y": 0.0},
+  {"name": "table", "drawable": "scn_table2.png", "offset_x": 0.0, "offset_y": 1.0, "blocks_way": true},
+
+  {"name": "can_blue", "drawable": "scn_can_blue.png", "offset_x": 0.0, "offset_y": 0.0},
+  {"name": "can_red", "drawable": "scn_can_red.png", "offset_x": 0.0, "offset_y": 0.0},
+  {"name": "can_green", "drawable": "scn_can_green.png", "offset_x": 0.0, "offset_y": 0.0},
+
+  {"name": "scn_g_altar", "drawable": "scn_g_altar.png", "offset_x": 0.0, "offset_y": 0.0, "blocks_way": true},
+  {"name": "scn_g_statue", "drawable": "scn_g_statue2.png", "offset_x": 0.0, "offset_y": 5.0, "blocks_way": true}
+]

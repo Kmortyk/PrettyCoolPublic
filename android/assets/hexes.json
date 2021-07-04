@@ -1,0 +1,27 @@
+[
+  {"map_id": 100, "drawable": "hex_null"},
+  {"map_id": 101, "drawable": "hex_stone_1"},
+
+  {"map_id": 112, "drawable": "hex_sand"},
+  {"map_id": 113, "drawable": "hex_sand_stone_1"},
+  {"map_id": 114, "drawable": "hex_sand_stone_2"},
+  {"map_id": 115, "drawable": "hex_sand_stone_3"},
+  {"map_id": 116, "drawable": "hex_sand_stone_4"},
+
+  {"map_id": 117, "drawable": "hex_bare_water", "can_step": false},
+  {"map_id": 118, "drawable": "hex_bare_water_1", "can_step": false},
+  {"map_id": 119, "drawable": "hex_bare_water_sand_2", "can_step": false},
+  {"map_id": 120, "drawable": "hex_bare_water_sand_1"},
+  {"map_id": 121, "drawable": "hex_bare_water_sand_3", "can_step": false},
+  {"map_id": 122, "drawable": "hex_bare_water_sand_4", "can_step": false},
+  {"map_id": 123, "drawable": "hex_bare_water_sand_5", "can_step": false},
+
+  {"map_id": 124, "drawable": "hex_ice"},
+  {"map_id": 125, "drawable": "hex_stone_snow"},
+
+  {"map_id": 126, "drawable": "hex_concrete"},
+  {"map_id": 127, "drawable": "hex_concrete_green"},
+
+  {"map_id": 128, "drawable": "hex_aztec_tiles"},
+  {"map_id": 129, "drawable": "hex_wooden_planks"}
+]

@@ -1,0 +1,75 @@
+perks5.png
+size: 22,13
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+perk_placeholder
+  rotate: false
+  xy: 0, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0
+perk_blindfury
+  rotate: false
+  xy: 50, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0
+perk_goldenhurt
+  rotate: false
+  xy: 100, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0
+perk_winddash
+  rotate: false
+  xy: 150, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0
+perk_soul_eater
+  rotate: false
+  xy: 0, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0
+perk_soul_strength
+  rotate: false
+  xy: 50, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0
+perk_speed
+  rotate: false
+  xy: 100, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0
+perk_horror
+  rotate: false
+  xy: 150, 50
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0  
+perk_gain
+  rotate: false
+  xy: 0, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0
+perk_time_stop
+  rotate: false
+  xy: 50, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0

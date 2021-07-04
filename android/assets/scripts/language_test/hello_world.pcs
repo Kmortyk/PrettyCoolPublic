@@ -1,0 +1,12 @@
+var a = false
+var i = 0
+
+fun printIdx(i) {
+    print(i+1)
+    print("execution time:", clock())
+}
+
+for i in [1, 3] {
+    printIdx(i)
+}
+

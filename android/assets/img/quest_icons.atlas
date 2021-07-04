@@ -1,0 +1,19 @@
+quest_icons_atlas.png
+size: 22,13
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+quest_dummy
+  rotate: false
+  xy: 0, 0
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 0
+quest_items
+  rotate: false
+  xy: 30, 0
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 0
