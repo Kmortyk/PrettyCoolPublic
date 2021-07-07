@@ -74,7 +74,6 @@ class Assets {
             // UI
             "ui_heart" to "img/herohp4.png",
             "ui_heart_full" to "img/herohpfull11.png",
-            "ui_map_back" to "img/sloy_big2.png",
             "ui_quick_slot" to "img/ui_quick_slot2.png",
             "ui_quick_slot_selected" to "img/ui_quick_slot_selected2.png",
 
@@ -178,7 +177,7 @@ class Assets {
             atlases["hexes"] = TextureAtlas(Gdx.files.internal("img/hexes_new.atlas"))
             atlases["perks"] = TextureAtlas(Gdx.files.internal("img/perks.atlas"))
             atlases["quest_icons"] = TextureAtlas(Gdx.files.internal("img/quest_icons.atlas"))
-
+            atlases["ui_game"] = TextureAtlas(Gdx.files.internal("img/ui_game_atlas.atlas"))
             atlases["ui_quest_check_mark"] = TextureAtlas(Gdx.files.internal("img/ui_quest_check_mark.atlas"))
 
             FontKurale = loadFont(assetManager, "fonts/kurale.ttf", 20)

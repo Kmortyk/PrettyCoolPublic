@@ -108,7 +108,7 @@ class GameUI(private val game: PrettyCoolGame,
         elements.add(HeartBar(assetManager, 5.0f, screenHeight - tex.height + 2f - DefaultPadding*0.5f, gameState.player))
 
         // map
-        val map = TextureButton(0.0f, 0.0f, assetManager[Assets["ui_map_back"]], Runnable { /* none */ })
+        val map = TextureRegionButton(0.0f, 0.0f,Assets.atlas("ui_game").findRegion("ui_map_back"), Runnable { /* none */ })
         addElementTo(elements, "mapBounds", map)
 
         // item quick slots
